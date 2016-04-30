@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PersonalDetails</string>
+    <string name="action_settings">No Details</string>
+    <string name="no_details">No Details</string>
+    <string name="menu_insert">Add Details</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_delete">Delete this item</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Birthdate">Birthdate</string>
+    <string name="Telephone">Telephone Number</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="no_entries">No Entries</string>
+    <string name="oktodelete">Ok to Delete</string>
+
+</resources>

@@ -1,0 +1,6 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:id="@+id/oktodelete"
+        android:title="@string/oktodelete"
+        android:orderInCategory="100" />
+</menu>
